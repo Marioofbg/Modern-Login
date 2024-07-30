@@ -1,8 +1,8 @@
 # Modern Login Page
-In this tutorial ([Open in Youtube](https://youtu.be/PlpM2LJWu-s)), I'm going to show you how to use modern HTML, CSS, and JavaScript to create a complete Login Page Design with Login and Sign up animations. We'll be using CSS Flexbox, CSS  transition for some cool animation effects and also CSS keyframes!
+Hello my pseudoname is Jujufou24 i forked the project of AsmrProg this this not my creation 
 
 # Screenshot
-Here we have project screenshot :
+There is a screenshot of the project :
 
 ![screenshot](screenshot.jpg)
 
